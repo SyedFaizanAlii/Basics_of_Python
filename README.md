@@ -1,0 +1,1 @@
+This project is aimed at providing beginners with a comprehensive guide to Python programming, covering fundamental concepts up to an introduction to commonly used libraries. Whether you're new to programming or looking to refresh your Python skills, this repository serves as a handy resource to get you started on your coding journey.
